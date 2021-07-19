@@ -1,6 +1,6 @@
 # Path Finding Visualizer
 
-This project is made on **Pygame**. It uses A* Search Algorithm, which is an "informed" graph-traversal technique. It uses a heuristic-based approach to find the short path between two nodes while avoiding walls. I have used Manhattan distance to calculate the path in this project.
+This project is made in **Pygame**. It uses A* Search Algorithm, which is an "informed" graph-traversal technique. It uses a heuristic-based approach to find the short path between two nodes while avoiding walls. I have used Manhattan distance to calculate the path in this project.
 
 
 ## Working of the visualiser
